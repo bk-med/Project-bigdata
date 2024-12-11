@@ -30,7 +30,7 @@ Ce projet vise à prédire le désabonnement des clients d'un service de musique
 1. Cloner le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-repo.git
+   git clone git@github.com:bk-med/Project-bigdata.git
    cd votre-repo
    ```
 
